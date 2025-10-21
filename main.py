@@ -8,7 +8,7 @@ import argparse
 from datetime import datetime
 import validators  # Import the validators package
 
-# Load environment variables
+# Load environment variables.
 load_dotenv()
 
 # Environment Variables for Configuration
